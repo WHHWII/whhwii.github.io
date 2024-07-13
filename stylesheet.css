@@ -55,7 +55,7 @@
 .image {
     display: block;
     width: auto;
-    height: 500px;
+    height: 100px;
 }
 
 /* The overlay effect - lays on top of the container and over the image */
@@ -122,3 +122,8 @@
         width: 100%;
     }
 /*#endregion Grid*/
+/*#region aboutme*/
+.aboutme {
+    font-size: 18px
+}
+/*#endregion aboutme*/
